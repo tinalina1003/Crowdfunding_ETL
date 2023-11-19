@@ -4,11 +4,19 @@ Project2-Group2
 Files submitted for grading:
 
     ETL_Mini_Project_Starter_Code_AElpannann_CLeung_FContla_NGuise.ipynb
+    crowdfunding_db.ipynb
     crowdfunding_db_schema_quickdbd.png
+    Resources
+    campaign_query.png
+    category_query.png
+    subcategory_query.png
+    contacts_query.png
 
-ETL_Mini_Project_Starter_Code_AElpannann_CLeung_FContla_NGuise.ipynb includes all the code used to create the four dataframes required for the assignment.
+All files were completed in Jupyter Notebook including dataframes, .csv files, database, and database tables.
 
-crowdfunding_db_schema_quickdbd.png includes a picture of the schema used for the last part of the project.
+ETL_Mini_Project_Starter_Code_AElpannann_CLeung_FContla_NGuise.ipynb includes all the code used to create the four dataframes required for the assignment. crowdfunding_db.ipynb includes the file used to create the database in Postgres and the importing of the csv files required for table creation for said database.
+
+crowdfunding_db_schema_quickdbd.png includes a picture of the schema used for the last part of the project. The PNG files: campaign_query, category_query, subcategory_query, and contacts_query are all pictures queried using PostGres/PgAdmin.
 
 Resources folder has all the necessary files used including the provided .xlsx files and the outputted .csv files. This folder also includes the schema created in QuickDBD used for creating the database in the last part of the project.
 
