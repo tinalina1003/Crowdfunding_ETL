@@ -12,7 +12,7 @@ Files submitted for grading:
     subcategory_query.png
     contacts_query.png
 
-### Please note that Option 2 was chosen to create the contacts dataframe: using Regex. 
+### Please note that we used both Option 1 and 2 to create the contacts dataframe. 
 
 All files were completed in Jupyter Notebook including dataframes, .csv files, database, and database tables.
 
