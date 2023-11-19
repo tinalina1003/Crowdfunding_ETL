@@ -12,11 +12,11 @@ Files submitted for grading:
     subcategory_query.png
     contacts_query.png
 
+### Please note that Option 2 was chosen to create the contacts dataframe: using Regex. 
+
 All files were completed in Jupyter Notebook including dataframes, .csv files, database, and database tables.
 
 ETL_Mini_Project_Starter_Code_AElpannann_CLeung_FContla_NGuise.ipynb includes all the code used to create the four dataframes required for the assignment. crowdfunding_db.ipynb includes the file used to create the database in Postgres and the importing of the csv files required for table creation for said database. 
-
-### Please note that Option 2 was chosen to create the contacts dataframe: using Regex. 
 
 crowdfunding_db_schema_quickdbd.png includes a picture of the schema used for the last part of the project. The PNG files: campaign_query, category_query, subcategory_query, and contacts_query are all pictures queried using PostGres/PgAdmin.
 
